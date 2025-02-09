@@ -1,4 +1,4 @@
-markdown
+
 # Gerador de Arquivos CSV de Produtos
 
 Este projeto contém um script em Python que gera arquivos CSV a partir de uma lista de objetos `ProdutoDTO`. O script cria dois tipos de arquivos CSV: um com todos os dados dos produtos e outro conjunto de CSVs agrupados por mês.
